@@ -1,2 +1,2 @@
 # Pong
-Pong game made using the Pygame library
+Pong game that I made using the Pygame library
